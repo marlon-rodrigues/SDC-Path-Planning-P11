@@ -37,7 +37,7 @@ I first check if the car is close to the car in front on the same lane - see abo
 
 ## Video with Results
 
-A video of the results can be found [here](https://youtu.be/USpCiaYH2Xo).
+A video of the results can be found [here](https://youtu.be/nFgkeNzCuGU).
 
 ## Sources and Credits
 This is a student project with the primary goal being to learn and understand the concepts behind a model predictive control. 

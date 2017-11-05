@@ -275,7 +275,7 @@ int main() {
             bool change_to_right_lane = (lane < 2);
 
             // threshold for s gap between us and other cars before classifying them as being too close
-            double threshold_front = 25;
+            double threshold_front = 30;
 
             cout << "new iter. lane: " << lane << endl;
 
